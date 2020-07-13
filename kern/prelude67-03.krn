@@ -9,128 +9,147 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*met(C)	*met(C)	*met(C)
-*M4/4	*M4/4	*M4/4
-*MM120	*MM120	*MM120
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM120	*MM120	*
 =1-	=1-	=1-
 *	*^	*
-2GG/ 2D/ 2G/	16r	16r	.
-.	16B/LL	(4..B\	p
-.	16d/	.	.
-.	16g/JJ	.	.
-.	16b/LL	.	.
-.	16d/	.	.
-.	16g/	.	.
-.	16B/JJ)	.	.
-2GG/ 2D/ 2G/	16r	16r	.
-.	(16B/LL	4..B\	.
-.	16d/	.	.
-.	16g/JJ	.	.
-.	16b/LL	.	.
-.	16d/	.	.
-.	16g/	.	.
-.	16B/JJ)	.	.
+!	!	!	!LO:DY:b=2
+*ped	*	*	*
+2GG: 2D: 2G:	16r	16r	p
+!	!	!	!LO:DY:a
+.	(16BLL	4.B	p
+.	16d	.	.
+.	16gJJ	.	.
+.	16bLL	.	.
+.	16d	.	.
+.	16g	.	.
+.	16BJJ)	16ryy	.
+*ped	*	*	*
+2GG: 2D: 2G:	16r	16r	.
+.	(16BLL	4.B	.
+.	16d	.	.
+.	16gJJ	.	.
+.	16bLL	.	.
+.	16d	.	.
+.	16g	.	.
+.	16BJJ)	16ryy	.
 =2	=2	=2	=2
-2BB\ 2G\	16r	16r	.
-.	(16d/LL	4..d\	.
-.	16fn/	.	.
-.	16g/JJ	.	.
-.	16dd/LL	.	.
-.	16f/	.	.
-.	16g/)	.	.
-.	16d/JJ	.	<
-2BB\ 2G#\	16r	16r	.
-.	(16d/LL	4..d\	.
-.	16e/	.	.
-.	16g#/JJ	.	.
-.	16dd/LL	.	.
-.	16e/	.	.
-.	16g#/	.	.
-.	16d/JJ)	.	.
+*ped	*	*	*
+2BB: 2G:	16r	16r	.
+.	(16dLL	4.d	.
+.	16fn	.	.
+.	16gJJ	.	.
+.	16ddLL	.	.
+.	16f	.	.
+.	16g	.	.
+.	16d)JJ	16ryy	<
+*ped	*	*	*
+2BB: 2G#:	16r	16r	.
+.	(16dLL	4.d	.
+.	16e	.	.
+.	16g#JJ	.	.
+.	16ddLL	.	.
+.	16e	.	.
+.	16g#	.	.
+.	16dJJ)	16ryy	.
 =3	=3	=3	=3
 *^	*	*	*
-2r	2C\ 2G#\	16r	16r	.
-.	.	(16d/LL	4..d\	.
-.	.	16e/	.	.
-.	.	16b/JJ	.	.
-.	.	16dd/LL	.	.
-.	.	16e/	.	.
-.	.	16b/	.	.
-.	.	16d/JJ)	.	f
-(4A/	2AA\	16r	16r	.
-.	.	(16c/LL	4..c\	.
-.	.	16e/	.	.
-.	.	16a/JJ	.	.
-4Gn/	.	16cc/LL	.	.
-.	.	16e/	.	.
-.	.	16a/	.	.
-.	.	16c/JJ)	.	.
+*ped	*	*	*	*
+2ryy	2C: 2G#:	16r	16r	.
+.	.	(16dLL	4.d	.
+.	.	16e	.	.
+.	.	16bJJ	.	.
+.	.	16ddLL	.	.
+.	.	16e	.	.
+.	.	16b	.	.
+.	.	16dJJ)	16ryy	.
+*Xped	*	*	*	*
+!	!	!	!	!LO:DY:b=2
+(4A	2AA	16r	16r	f
+!	!	!	!	!LO:DY:a
+.	.	(16cLL	4.c	f
+.	.	16e	.	.
+.	.	16aJJ	.	.
+4Gn	.	16ccLL	.	.
+.	.	16e	.	.
+.	.	16a	.	.
+.	.	16cJJ)	16ryy	.
 =4	=4	=4	=4	=4
-2F#/)	2D\	16r	16r	.
-.	.	16c/LL	4..c\	.
-.	.	16d/	.	.
-.	.	16a/JJ	.	.
-.	.	16cc/LL	.	.
-.	.	16d/	.	.
-.	.	16a/	.	.
-.	.	&(16c/JJ&)	.	.
-2F#/ (2A/	2D#\	16r	16r	.
-.	.	16c/LL	4..c\	.
-.	.	16f#/	.	.
-.	.	16a/JJ	.	.
-.	.	16cc/LL	.	.
-.	.	16f#/	.	.
-.	.	16a/	.	.
-.	.	&(16c/JJ&)	.	.
+2F#)	2D	16r	16r	.
+.	.	(16cLL	4.c	.
+.	.	16d	.	.
+.	.	16aJJ	.	.
+.	.	16ccLL	.	.
+.	.	16d	.	.
+.	.	16a	.	.
+.	.	16c)JJ	16ryy	.
+*ped	*	*	*	*
+2F# (2A	2D#	16r	16r	.
+.	.	(16cLL	4.c	.
+.	.	16f#	.	.
+.	.	16aJJ	.	.
+.	.	16ccLL	.	.
+.	.	16f#	.	.
+.	.	16a	.	.
+*Xped	*	*	*	*
+.	.	16cJJ)	16ryy	.
 =5	=5	=5	=5	=5
 !! rallentando
 *MM112	*MM112	*MM112	*MM112	*MM112
-4G/)	4E\	16r	16r	.
-.	.	16B/LL	[8.B\	p
-.	.	16g/	.	.
-.	.	16b/JJ	.	.
-4r	4C\	16a/LL	8B\]	.
-.	.	16e/	.	.
-.	.	16c/	4c\	.
-.	.	16g/JJ	.	.
+!	!	!	!	!LO:DY:b=2
+4G)	4E	16r	16r	p
+!	!	!	!LO:N:vis=4.	!LO:DY:a
+.	.	(16BLL	4B	p
+!	!	!	!LO:TX:b:i:t=rallent.	!
+.	.	16g	.	.
+.	.	16bJJ	.	.
+4r	4C	16aLL	.	.
+.	.	16e	16ryy	.
+.	.	16c	4c	.
+.	.	16gJJ	.	.
 *MM100	*MM100	*MM100	*MM100	*MM100
-2D/	4D\	16f#/LL	.	.
-.	.	16d/	.	.
-.	.	16B/	8B\	.
-.	.	16g/JJ	.	.
-.	4DD\	16A/LL	4A\	.
-.	.	16c/	.	.
-.	.	16g/	.	.
-.	.	&(16f#/JJ&)	.	.
+2D	4D	16f#LL	.	.
+.	.	16d	.	.
+.	.	16B	8B	.
+.	.	16gJJ	.	.
+.	4DD	16ALL	4A	.
+.	.	16c	.	.
+.	.	16g	.	.
+.	.	16f#JJ)	.	.
 *	*	*v	*v	*
 =6	=6	=6	=6
 *MM92	*MM92	*MM92	*MM92
-16GG/LL	1GG	1r	.
-32BB/L	.	.	.
-32D/JJJ	.	.	.
-32G\	.	.	.
-32B/LLL	.	.	.
-32d/	.	.	.
-32g/	.	.	.
-32b/	.	.	.
-32g/	.	.	.
-32d/	.	.	.
-32B/	.	.	.
-48G/	.	.	.
-48D/	.	.	.
-48BB/JJJ	.	.	.
-48GG/LLL	.	.	.
-48DD/	.	.	.
-48BBB/JJJ	.	.	.
-2GGG\	.	.	.
+8ryy	1GG	(16GG<LL	.
+.	.	32BB<L	.
+.	.	32D<JJJ	.
+*ped	*	*	*
+4G\	.	32r<e	.
+.	.	32B<LLL	.
+.	.	32d	.
+.	.	32gJJ	.
+.	.	32bLL	.
+.	.	32g	.
+.	.	32d	.
+.	.	32B<JJ	.
+8ryy	.	48G<LL	.
+.	.	48D<	.
+.	.	48BB<JJJ	.
+.	.	48GG<LLL<	.
+.	.	48DD<	.
+.	.	48BBB<JJJ	.
+2ryy	.	2GGG<\)	.
+*Xped	*	*	*
 *v	*v	*	*
 ==	==	==
 *-	*-	*-
+!!!RDF**kern: < = below
 !!!ENC: Craig Stuart Sapp
 !!!EED: 2008/06/14/
-!!!EEV: 2008/06/14/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2020/07/13/
 !!!YEC: Copyright 2008 by Craig Stuart Sapp
 !!!YEN: United States of America
