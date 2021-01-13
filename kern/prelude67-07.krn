@@ -1,151 +1,166 @@
 !!!COM: Hummel, Johann Nepomuk
-!!!CDT: 1778/11/14/-1837/10/17/
+!!!CDT: 1778/11/14-1837/10/17
 !!!OTL: Prelude in F-sharp Minor, Op. 67, No. 7
 !!!OPS: Op. 67
 !!!ONM: No. 7
-!!!OMD: Moderato
-!!!ODT: 1815///
+!!!OMD: Moderato.
+!!!ODT: 1815
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*A:	*A:	*A:
-*met(C)	*met(C)	*met(C)
-*M4/4	*M4/4	*M4/4
-*MM92	*MM92	*MM92
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM92	*MM92	*
 =1-	=1-	=1-
 *^	*^	*
-16r	[1AAA	4r	2r	.
-[[16AA/LL	.	.	.	.
-16C#/	.	.	.	.
-16E/JJ	.	.	.	.
-2.r	.	16A/LL	.	f
-.	.	16c#/	.	.
-.	.	16e/	.	.
-.	.	16a/JJ	.	.
-.	.	16cc#/LL	8r	.
-.	.	16ee/	.	>
-.	.	16a/	8a\L	.
-.	.	16cc#/JJ	.	.
-.	.	16g#/LL	8g#\	.
-.	.	16b/	.	.
-.	.	16gn/	8gn\J	.
-.	.	16ee/JJ	.	.
+!	!	!	!	!LO:DY:rj
+16r	[1AAA	(8rA<	2ryy	f
+[<8.AA\	.	.	.	.
+.	.	16C#<LL	.	.
+.	.	16E<JJ	.	.
+2.AA\_<	.	16A<LL	.	.
+.	.	16c#<	.	.
+.	.	16e	.	.
+.	.	16aJJ	.	.
+.	.	16cc#LL	8r	.
+.	.	16ee	.	>
+.	.	16a	8aL	.
+.	.	16cc#JJ	.	.
+.	.	16g#LL	8g#	.
+.	.	16b	.	.
+.	.	16gn	8gnJ	.
+.	.	16eeJJ	.	.
 *v	*v	*	*	*
 =2	=2	=2	=2
-2AAA/] 2AA/]	16f#/LL	8f#\L	.
-.	16a/	.	.
-.	16fn/	8fn\J	.
-.	16dd/JJ	.	.
-.	16e/LL	4e\	p
-.	16g#/	.	.
-.	16a/	.	.
-.	16cc#/JJ	.	.
-4BBB/ 4BB/	16d#/LL	4d#\	p
-.	16f#/	.	.
-.	16a/	.	.
-.	16b/JJ	.	.
-4CC#/ 4C#/	16c#/LL	4c#\	.
-.	16e#/	.	.
-.	16g#/	.	.
-.	16b/JJ	.	.
+2AAA] 2AA]	16f#LL	8f#L	.
+.	16a	.	.
+.	16fn	8fnJ	]
+.	16ddJJ	.	.
+!	!	!	!LO:DY:rj
+.	16eLL	4e	p
+.	16g#X	.	.
+.	16a	.	.
+.	16cc#JJ	.	.
+!	!	!	!LO:DY:b=2:rj
+4BBB 4BB	16d#LL	4d#	p
+.	16f#	.	.
+.	16a	.	.
+.	16bJJ	.	.
+4CC# 4C#	16c#LL	4c#	.
+.	16e#	.	.
+.	16g#	.	.
+.	16bJJ	.	.
+!!LO:LB:g=z
 =3	=3	=3	=3
-4DD/ 4D/	16B#/LL	4B#\	.
-.	16f#/	.	.
-.	16g#/	.	.
-.	16a/JJ	.	.
-4DD#/ 4D#/	16cn/LL	4cn\	<
-.	16f#/	.	.
-.	16g#/	.	.
-.	16a/JJ	.	.
-4EE/ 4E/	16c/LL	4c\	.
-.	16e/	.	.
-.	16g#/	.	.
-.	16a/JJ	.	.
-4FFn/ 4Fn/	16A/LL	4A\	.
-.	16c/	.	.
-.	16d#/	.	.
-.	16a/JJ	.	.
+4DD 4D	16B#LL	4B#	.
+!	!LO:TX:i:t=sostenuto	!	!
+.	16f#	.	.
+.	16g#	.	.
+.	16aJJ	.	.
+4DD# 4D#	16cnLL	4cn	<
+.	16f#	.	.
+.	16g#	.	.
+.	16aJJ	.	.
+4EE 4E	16cLL	4c	.
+.	16e	.	.
+.	16g#	.	.
+.	16aJJ	.	.
+4FFn 4Fn	16ALL	4A	.
+.	16c	.	.
+.	16d#	.	.
+.	16aJJ)	.	.
 *	*v	*v	*
 =4	=4	=4
 !M7/4	!M7/4	!M7/4
-*	*^	*
-2EE\	8r	2r	.
-.	4.E/ 4.A/ 4.c#/ 4.e/	.	f
-2r	16r	16r	.
-.	32c#/LLL	32A\LLL	.
-.	32d/	32B\	.
-.	32e/	32c#\	.
-.	32f#/	32d\	.
-.	32g#/	32e\	.
-.	32a/	32f#\	.
-.	32b/	32g#\	.
-.	32cc#/	32a\	.
-.	32dd/	32b\	.
-.	32ee/	32cc#\	.
-.	32ff#/	32dd\	.
-.	32gg#/	32ee\	.
-.	32aa/	32ff#\	.
-.	32bb/JJJ	32gg#\JJJ	.
-2.r	16ccc#/LL	16aa\LL	.
-.	16eee/	16gg#\	.
-.	16aa/	16ff#\	.
-.	16ccc#/JJ	16ee\JJ	.
-.	16ff#/LL	16dd\LL	.
-.	16aa/	16cc#\	.
-.	16dd/	16b\	.
-.	16ff#/JJ	16a\JJ	.
-.	16b/LL	16g#\LL	.
-.	16dd/	16f#\	.
-.	16g#/	16e\	.
-.	16b/JJ	16d\JJ	.
-*	*v	*v	*
-=5	=5	=5
-*M4/4	*M4/4	*M4/4
 *^	*	*
-4r	16c#\LL	16e/LL	.
-.	16B\	16g#/	.
-.	16A\	16c#/	.
-.	16G#\JJ	16e/JJ	.
-16A/LL	16F#\LL	4r	.
-16c#/	16E\	.	.
-16F#/	16D\	.	.
-16A/JJ	16C#\JJ	.	.
-16D/LL	16BB\LL	4r	.
-16F#/	16AA\	.	.
-16BB/	16GG#\	.	.
-16D/JJ	16FF#\JJ	.	.
-16GG#/LL	16EE\LL	4r	.
-16BB/	16DD\	.	.
-16EE/	16CC#\	.	.
-16GG#/JJ	16BBB\JJ	.	.
+!	!	!	!LO:DY:b=2:rj
+*ped	*	*	*
+8rA	2EE	8r	f
+!	!	!	!LO:DY:a
+4.E	.	4.A 4.c#X 4.e	f
 *v	*v	*	*
+16r	16r	.
+!	!LO:TX:i:t=allegro vivace	!
+(<32ALLL	(>32c#LLL	.
+32B	32d	.
+32c#	32e	.
+*Xped	*	*
+32d>	32f#	.
+32e>	32g#	.
+32f#>	32a	.
+32g#>	32b	.
+32a>	32cc#	.
+32b>	32dd	.
+32cc#>	32ee	.
+32dd>	32ff#	.
+32ee>	32gg#	.
+32ff#>	32aa	.
+32gg#>JJJ	32bbJJJ	.
+16aa>LL)	16ccc#LL)	.
+(16gg#>	(16eee	.
+16ff#>	16aa	.
+16ee>JJ	16ccc#JJ	.
+16dd>LL	16ff#LL	.
+16cc#>	16aa	.
+16b>	16dd	.
+16a>JJ	16ff#JJ	.
+16g#>LL	16bLL	.
+16f#>	16dd	.
+16e>	16g#	.
+16d>JJ	16bJJ	.
+!!LO:LB:g=z
+=5-	=5-	=5-
+!!*M4/4	*M4/4	*M4/4
+16c#LL	16eLL	.
+16B	16g#	.
+16A	16c#	.
+16G#JJ	16eJJ	.
+16F#LL	16A<LL	.
+16E	16c#<	.
+16D	16F#<	.
+16C#JJ	16A<JJ	.
+16BBLL	16D<LL	.
+16AA	16F#<	.
+16GG#	16BB<	.
+16FF#JJ	16D<JJ	.
+16EELL	16GG#<LL	.
+16DD	16BB<	.
+16CC#	16EE<	.
+16BBBJJ	16GG#<JJ	.
 =6	=6	=6
-8AAA/ 8CC#/	4r	.
-8r	.	.
+8AAA)	8CC#<)	.
+8rCC	8rD<	.
 8r	8r	.
-8FF#''/ 8F#''/	8f#''/ 8a''/ 8cc#''/	ff
-4DD/ 4D/	4f#\ 4a\ 4b\ 4ff#\	.
-4EE/ 4GG#/ 4BB/ 4E/	4B/ 4d/ 4e/ 4g#/	.
+*ped	*	*
+!	!	!LO:DY:rj
+8FF#'' 8F#''	8f#` 8a'' 8cc#''	ff
+4DD 4D	4f# 4a 4b 4ff#	.
+*ped	*	*
+4EE: 4GG#: 4BB: 4E:	4B: 4d: 4e: 4g#:	.
 =7	=7	=7
-4AAA/ 4CC#/ 4EE/ 4AA/	8.A/ 8.c#/ 8.e/ 8.a/L	.
-.	32e/LL	.
-.	32c#/JJJ	.
-24A/LL	4r	.
-24E/	.	.
-24C#/JJ	.	.
-24AA\LL	.	.
-24EE\	.	.
-24CC#\JJ	.	.
-8AAA\	4r	.
-8r	.	.
-4r	4r	.
+*ped	*	*
+4AAA: 4CC#: 4EE: 4AA:	(8.A: 8.c#: 8.e: 8.a:L	.
+.	32eLL	.
+.	32c#JJJ	.
+8r	24A<LL	.
+.	24E<	.
+.	24C#<JJ	.
+8r	24AA<LL<	.
+.	24EE<	.
+.	24CC#<JJ	.
+2rc	8AAA<\)	.
+.	8rCC<	.
+.	4rCC<	.
 ==	==	==
 *-	*-	*-
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
 !!!ENC: Craig Stuart Sapp
-!!!EED: 2008/06/15/
-!!!EEV: 2008/06/15/
+!!!EED: 2008/06/15
+!!!EEV: 2008/01/08
 !!!YEC: Copyright 2008 by Craig Stuart Sapp
 !!!YEN: United States of America

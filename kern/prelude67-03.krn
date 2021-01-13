@@ -1,13 +1,13 @@
 !!!COM: Hummel, Johann Nepomuk
-!!!CDT: 1778/11/14/-1837/10/17/
+!!!CDT: 1778/11/14-1837/10/17
 !!!OTL: Prelude in G Major, Op. 67, No. 3
 !!!OPS: Op. 67
 !!!ONM: No. 3
-!!!OMD: Allegro
-!!!ODT: 1815///
+!!!OMD: Allegro.
+!!!ODT: 1815
 !!!AIN: piano
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
+*staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
 *k[f#]	*k[f#]	*
@@ -78,6 +78,7 @@
 .	.	16e	.	.
 .	.	16a	.	.
 .	.	16cJJ)	16ryy	.
+!!LO:LB:g=z
 =4	=4	=4	=4	=4
 2F#)	2D	16r	16r	.
 .	.	(16cLL	4.c	.
@@ -104,7 +105,7 @@
 4G)	4E	16r	16r	p
 !	!	!	!LO:N:vis=4.	!LO:DY:a
 .	.	(16BLL	4B	p
-!	!	!	!LO:TX:b:i:t=rallent.	!
+!	!	!	!LO:TX:c:i:t=rallent.	!
 .	.	16g	.	.
 .	.	16bJJ	.	.
 4r	4C	16aLL	.	.
@@ -148,8 +149,8 @@
 *-	*-	*-
 !!!RDF**kern: < = below
 !!!ENC: Craig Stuart Sapp
-!!!EED: 2008/06/14/
+!!!EED: 2008/06/14
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2020/07/13/
+!!!EEV: 2021/01/08
 !!!YEC: Copyright 2008 by Craig Stuart Sapp
 !!!YEN: United States of America
