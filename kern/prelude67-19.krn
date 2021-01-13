@@ -1,8 +1,8 @@
 !!!COM: Hummel, Johann Nepomuk
 !!!CDT: 1778/11/14-1837/10/17
-!!!OTL: Prelude in E-flat Major, Op. 67, No. 19
-!!!OPS: Op. 67
-!!!ONM: No. 19
+!!!OTL: Prelude in E-flat major, op. 67, no. 19
+!!!OPS: 67
+!!!ONM: 19
 !!!OMD: Allegro comodo.
 !!!ODT: 1815
 !!!AIN: piano
@@ -171,11 +171,12 @@
 2r	2r	.
 ==	==	==
 *-	*-	*-
-!!!ENC: Craig Stuart Sapp
-!!!EED: 2008/06/13
-!!!EEV: 2008/06/13
-!!!YEC: Copyright 2008 by Craig Stuart Sapp
-!!!YEN: United States of America
 !!!RDF**kern: N = linked
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!ENC: Craig Stuart Sapp
+!!!END: 2008/06/13
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2021/01/12
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

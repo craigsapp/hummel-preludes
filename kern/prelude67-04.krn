@@ -1,10 +1,10 @@
 !!!COM: Hummel, Johann Nepomuk
-!!!CDT: 1778/11/14/-1837/10/17/
-!!!OTL: Prelude in E Minor, Op. 67, No. 4
-!!!OPS: Op. 67
-!!!ONM: No. 4
+!!!CDT: 1778/11/14-1837/10/17
+!!!OTL: Prelude in E minor, op. 67, No. 4
+!!!OPS: 67
+!!!ONM: 4
 !!!OMD: Molto allegro.
-!!!ODT: 1815///
+!!!ODT: 1815
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -93,11 +93,12 @@ N(>4EE\	8rF<	.
 *Xped	*	*
 ==	==	==
 *-	*-	*-
-!!!ENC: Craig Stuart Sapp
-!!!EED: 2008/06/14
-!!!EEV: 2021/01/08
-!!!YEC: Copyright 2008 by Craig Stuart Sapp
-!!!YEN: United States of America
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**kern: N = linked
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/14
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2021/01/08
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

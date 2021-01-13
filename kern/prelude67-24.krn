@@ -1,10 +1,10 @@
 !!!COM: Hummel, Johann Nepomuk
-!!!CDT: 1778/11/14/-1837/10/17/
-!!!OTL: Prelude in D Minor, Op. 67, No. 24
-!!!OPS: Op. 67
-!!!ONM: No. 24
-!!!OMD: Allegro spiritoso
-!!!ODT: 1815///
+!!!CDT: 1778/11/14-1837/10/17
+!!!OTL: Prelude in D minor, op. 67, no. 24
+!!!OPS: 67
+!!!ONM: 24
+!!!OMD: Allegro spiritoso.
+!!!ODT: 1815
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -120,7 +120,7 @@
 ==	==	==
 *-	*-	*-
 !!!ENC: Craig Stuart Sapp
-!!!EED: 2008/06/12/
-!!!EEV: 2008/06/12/
+!!!END: 2008/06/12
+!!!EEV: 2008/06/12
 !!!YEC: Copyright 2008 by Craig Stuart Sapp
 !!!YEN: United States of America

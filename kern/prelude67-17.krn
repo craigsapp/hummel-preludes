@@ -1,10 +1,10 @@
 !!!COM: Hummel, Johann Nepomuk
-!!!CDT: 1778/11/14/-1837/10/17/
-!!!OTL: Prelude in A-flat Major, Op. 67, No. 17
-!!!OPS: Op. 67
-!!!ONM: No. 17
-!!!OMD: Allgero moderato
-!!!ODT: 1815///
+!!!CDT: 1778/11/14-1837/10/17
+!!!OTL: Prelude in A-flat major, op. 67, no. 17
+!!!OPS: 67
+!!!ONM: 17
+!!!OMD: Allgero moderato.
+!!!ODT: 1815
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -118,7 +118,8 @@
 ==	==	==
 *-	*-	*-
 !!!ENC: Craig Stuart Sapp
-!!!EED: 2008/06/13/
+!!!END: 2008/06/13/
+!!!EEV: Craig Stuart Sapp
 !!!EEV: 2021/06/07
 !!!YEC: Copyright 2008 by Craig Stuart Sapp
 !!!YEN: United States of America
