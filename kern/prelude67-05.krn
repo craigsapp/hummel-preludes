@@ -8,16 +8,16 @@
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*met(c)	*met(c)	*met(c)
-*M4/4	*M4/4	*M4/4
-*MM132	*MM132	*MM132
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM132	*MM132	*
 =1-	=1-	=1-
 *ped	*	*
-!	!	!LO:DY:b=2
+!	!	!LO:DY:b=2:r
 1DD: 1D:	16re<	f
 !	!	!LO:DY:rj
 .	(16A<LL	f
@@ -72,7 +72,7 @@
 .	16bb	.
 .	16ff#	.
 .	16dddJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =4	=4	=4
 *ped	*	*
 2.GGG#: 2.GG#:	16r	.
@@ -124,11 +124,9 @@
 4AAA 4AA	4E< 4G< 4A< 4c#<	p
 =7	=7	=7
 *ped	*	*
-!	!LO:TX:c:i:t=ten.	!
-2DD:: 2AA:: 2D::	2E<:: 2G<:: 2A<:: 2c#<::	.
+2DD:: 2AA:: 2D::	2E<:: 2G<:: 2A<:: 2c#<~~<::	.
 *ped	*	*
-!	!LO:TX:c:i:t=ten.	!
-4DD:: 4FF#:: 4AA:: 4D::	4F#<: 4A<: 4d<:	.
+4DD:: 4FF#:: 4AA:: 4D::	4F#<: 4A<: 4d<~~<:	.
 *Xped	*	*
 4r	4r	.
 ==	==	==
@@ -138,6 +136,6 @@
 !!!ENC: Craig Stuart Sapp
 !!!EED: 2008/06/14
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/08
+!!!EEV: 2022/05/21
 !!!YEC: Copyright 2008 by Craig Stuart Sapp
 !!!YEN: United States of America

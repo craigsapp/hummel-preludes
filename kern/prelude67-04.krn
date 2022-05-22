@@ -8,14 +8,16 @@
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefG2	*clefG2
-*k[f#]	*k[f#]	*k[f#]
-*e:	*e:	*e:
-*M4/4	*M4/4	*M4/4
-*MM80	*MM80	*MM80
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*e:	*e:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*MM80	*MM80	*
 =1-	=1-	=1-
 !	!	!LO:DY:b=2
+*ped	*	*
 .	(>32E<qLLL	f
 .	32G<q	.
 .	32B<q	.
@@ -23,7 +25,8 @@
 .	32bqLLL<	.
 .	32eeq	.
 .	32ggqJJJ	.
-1r	4bbz)	.
+*Xped	*	*
+1ryy	4bbz)	.
 .	(>(48aaLLL	.
 .	48ccc	.
 .	48bb	.
@@ -48,7 +51,8 @@
 .	48a	.
 .	48b	.
 .	48ccJJJ)	.
-=	=	=
+!!LO:LB:g=original
+=-	=-	=-
 !	!LO:TUP:b	!
 .	(48f#LLL	.
 .	48a	.
@@ -88,7 +92,7 @@ N(>4EE\	8rF<	.
 .	40gg	.
 .	40bb	.
 .	40eee	.
-.	40ggg''JJJN)	.
+.	40ggg`JJJN)	.
 2EE\	2r	.
 *Xped	*	*
 ==	==	==
@@ -99,6 +103,6 @@ N(>4EE\	8rF<	.
 !!!ENC: Craig Stuart Sapp
 !!!EED: 2008/06/14
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/08
+!!!EEV: 2022/05/21
 !!!YEC: Copyright 2008 by Craig Stuart Sapp
 !!!YEN: United States of America

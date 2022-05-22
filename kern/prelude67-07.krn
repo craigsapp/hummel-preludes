@@ -8,7 +8,7 @@
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Ipiano	*Ipiano	*Ipiano
+*Ipiano	*Ipiano	*
 *clefF4	*clefG2	*
 *k[f#c#g#]	*k[f#c#g#]	*
 *A:	*A:	*
@@ -137,7 +137,7 @@
 8r	8r	.
 *ped	*	*
 !	!	!LO:DY:rj
-8FF#'' 8F#''	8f#` 8a'' 8cc#''	ff
+8FF#` 8F#`	8f#`> 8a`> 8cc#`>	ff
 4DD 4D	4f# 4a 4b 4ff#	.
 *ped	*	*
 4EE: 4GG#: 4BB: 4E:	4B: 4d: 4e: 4g#:	.
@@ -149,7 +149,8 @@
 8r	24A<LL	.
 .	24E<	.
 .	24C#<JJ	.
-8r	24AA<LL<	.
+!	!LO:TUP:a	!
+8rA	24AA<LL<	.
 .	24EE<	.
 .	24CC#<JJ	.
 2rc	8AAA<\)	.
@@ -162,6 +163,6 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/06/15
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/08
+!!!EEV: 2023/05/21
 !!!YEC: Copyright 2008 by Craig Stuart Sapp
 !!!YEN: United States of America

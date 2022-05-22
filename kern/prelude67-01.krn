@@ -8,12 +8,12 @@
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*clefF4	*clefG2	*clefG2
-*C:	*C:	*C:
-*k[]	*k[]	*k[]
-*met(c)	*met(c)	*met(c)
-*M4/4	*M4/4	*M4/4
-*MM100	*MM100	*MM100
+*clefF4	*clefG2	*
+*C:	*C:	*
+*k[]	*k[]	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM100	*MM100	*
 =1-	=1-	=1-
 *^	*	*
 *	*^	*	*
@@ -63,8 +63,8 @@
 16ccc>	.	.	.
 16gg>JJ	.	.	.
 *v	*v	*	*
-!!LO:LB:g=z
-=3	=3	=3
+!!LO:LB:g=original
+=3-	=3-	=3-
 !	!	!LO:DY:b=2
 1D: 1F: 1G: 1B: 1d:	8r	f
 .	(32ffqLLL	.
@@ -107,7 +107,7 @@
 8ryy	24dLL	.
 .	24G	.
 .	24BJJ	.
-32r	16c'')	.
+32r	16c`)	.
 *ped	*	*
 (32EELLL<	.	.
 !	!LO:TX:i:t=leggiero	!
@@ -123,7 +123,7 @@
 32gg>\JJJ)	.	.
 !!LO:LB:g=z
 =4-	=4-	=4-
-!M8/4	!M8/4	!M8/4
+!LO:PED:vg=23	!	!
 *ped	*	*
 (32FFLLL<	8ryy	.
 32AA	.	.
@@ -132,11 +132,12 @@
 32ryy	4ryy	.
 32A/LLL	.	.
 32c/	.	.
-32f>\	.	.
+32fny>\	.	.
 32a>\	.	.
-32dd>\	.	.
-32ff>\	.	.
+32ddny>\	.	.
+32ffny>\	.	.
 32aa>\JJJ)	.	.
+!LO:PED:vg=23	!	!
 *ped	*	*
 (32FF#LLL<	8ryy	.
 32AA	.	.
@@ -150,6 +151,7 @@
 32ee->	16ryy	.
 32aa>	.	.
 32ccc>JJJ)	32ryy	.
+!LO:PED:vg=24	!	!
 *ped	*	*
 1GG: 1C: 1En: 1G:	8r	.
 .	4gg: 4ggg:	[ sf
@@ -168,6 +170,7 @@
 .	56bb	.
 .	56a	.
 .	56aa	.
+*Xped	*	*
 .	56g	.
 .	56gg	.
 .	56f	.
@@ -188,21 +191,26 @@
 .	8r	.
 *ped	*	*
 *	*	*^
+!	!	!	!LO:DY:b=2:rj
 4GGG 4GG	4D< 4F< 4G< 4B<	p	p
 *	*	*v	*v
 =5	=5	=5
+!LO:PED:vg=25	!	!
 *ped	*	*
 !	!LO:TX:b:i:t=andante	!
 2CC 2C	2D< 2F< 2G< 2B<	.
+!LO:PED:vg=25	!	!
 *Xped	*	*
-(16CCLL	4ryy	.
+(16CCLL<	4ryy	.
 32EEL	.	.
 32GGJJJ	.	.
+!LO:PED:vg=26	!	!
 *ped	*	*
-32C	.	.
+32C\	.	.
 32ELLL>	.	.
 32G	.	.
 32cJJJ)	.	.
+!LO:PED:vg=26	!	!
 *Xped	*	*
 4CC	4rc<	.
 ==	==	==
@@ -210,7 +218,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/06/15
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/06
+!!!EEV: 2022/05/21
 !!!YEC: Copyright 2008 by Craig Stuart Sapp
 !!!YEN: United States of America
 !!!RDF**kern: > = above

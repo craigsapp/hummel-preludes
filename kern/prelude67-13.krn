@@ -8,7 +8,7 @@
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Ipiano	*Ipiano	*Ipiano
+*Ipiano	*Ipiano	*
 *I"13	*I"13	*
 *clefF4	*clefG2	*
 *k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*

@@ -8,14 +8,14 @@
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Ipiano	*Ipiano	*Ipiano
+*Ipiano	*Ipiano	*
 *I"18.	*I"18.	*
-*clefF4	*clefG2	*clefG2
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
-*f:	*f:	*f:
-*met(C)	*met(C)	*met(C)
-*M4/4	*M4/4	*M4/4
-*MM144	*MM144	*MM144
+*clefF4	*clefG2	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*f:	*f:	*
+*met(c)	*met(c)	*
+*M4/4	*M4/4	*
+*MM144	*MM144	*
 =1-	=1-	=1-
 .	(ccq/	.
 1r	[4ccc\)	f

@@ -8,13 +8,13 @@
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
-*Ipiano	*Ipiano	*Ipiano
-*clefF4	*clefF4	*clefF4
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*g:	*g:	*g:
-*met(C)	*met(C)	*met(C)
-*M4/4	*M4/4	*M4/4
-*MM144	*MM144	*MM144
+*Ipiano	*Ipiano	*
+*clefF4	*clefF4	*
+*k[b-e-]	*k[b-e-]	*
+*g:	*g:	*
+*met(C)	*met(C)	*
+*M4/4	*M4/4	*
+*MM144	*MM144	*
 =1-	=1-	=1-
 12GG/L	12G\L	p
 12FF#/	12A\	.
