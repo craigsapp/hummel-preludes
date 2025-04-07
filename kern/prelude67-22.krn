@@ -3,138 +3,157 @@
 !!!OTL: Prelude in G minor, op. 67, no. 22
 !!!OPS: 67
 !!!ONM: 22
-!!!OMD: Allegro vivace; Andante sostenuto.
+!!!OMD: Allegro vivace.
 !!!ODT: 1815
 !!!AIN: piano
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*
-*clefF4	*clefF4	*
+*clefF4	*clefG2	*
 *k[b-e-]	*k[b-e-]	*
 *g:	*g:	*
-*met(C)	*met(C)	*
+*met(c)	*met(c)	*
 *M4/4	*M4/4	*
 *MM144	*MM144	*
 =1-	=1-	=1-
-12GG/L	12G\L	p
-12FF#/	12A\	.
-12GG/J	12G\J	.
-12DD/L	12B-\L	.
-12FF#/	12A\	.
-12GG/J	12G\J	.
-12AA/L	12F#\L	.
-12GG/	12G\	.
-12AA/J	12F#\J	.
-12DD/L	12c\L	.
-12GG/	12B-\	.
-12AA/J	12A\J	.
+*	*clefF4	*
+*Xtuplet	*Xtuplet	*
+12GGL	12GL	p
+12FF#	12A	.
+12GGJ	12GJ	.
+12DDL	12B-L	.
+12FF#	12A	.
+12GGJ	12GJ	.
+12AAL	12F#L	.
+12GG	12G	.
+12AAJ	12F#J	.
+12DDL	12cL	.
+12GG	12B-	.
+12AAJ	12AJ	.
 =2	=2	=2
-12BB-/L	12G\L	.
-12AA/	12A\	.
-12BB-/J	12G\J	.
-12GG/L	12d\L	.
-12AA/	12c\	.
-12BB-/J	12B-\J	.
-12C/L	12A\L	.
-12BB-/	12B-\	.
-12C/J	12A\J	.
-12AA/L	12e-\L	.
-12BB-/	12d\	.
-12C/J	12c\J	.
+12BB-L	12GL	.
+12AA	12A	.
+12BB-J	12GJ	.
+12GGL	12dL	.
+12AA	12c	.
+12BB-J	12B-J	.
+12CL	12AL	.
+12BB-	12B-	.
+12CJ	12AJ	.
+12AAL	12e-L	.
+12BB-	12d	.
+12CJ	12cJ	.
 *	*clefG2	*clefG2
 =3	=3	=3
-12D/L	12Bn/L	<
-12C/	12c/	.
-12D/J	12B/J	.
-12BBn/L	12f/L	.
-12C/	12e-/	.
-12D/J	12d/J	.
-12E-\L	12c/L	.
-12D\	12d/	.
-12C\J	12e-/J	.
-12F#\L	12d/L	.
-12En\	12en/	.
-12D\J	12f#/J	.
+12DL	12BnL	<
+12C	12c	.
+12DJ	12BJ	.
+12BBnL	12fL	.
+12C	12e-	.
+12DJ	12dJ	.
+12E-L	12cL	.
+12D	12d	.
+12CJ	12e-J	.
+12F#L	12dL	.
+12En	12en	.
+12DJ	12f#J	.
+!!LO:LB:g=original
 =4	=4	=4
-12G\L	12en/L	.
-12F#\	12f#/	.
-12En\J	12g/J	.
-12A\L	12f#/L	.
-12G\	12g/	.
-12F#\J	12a/J	f
-12G\L	12b-/L	.
-12A\	12a/	.
-12B-\J	12g/J	.
-12c\L	12a/L	.
-12B-\	12b-/	.
-12A\J	12cc/J	.
+12GL	12enL	.
+12F#	12f#	.
+12EnJ	12gJ	.
+12AL	12f#L	.
+12G	12g	.
+12F#J	12aJ	.
+!	!	!LO:DY:rj
+12GL	12b-L	f
+12A	12a	.
+12B-J	12gJ	.
+12cL	12aL>	.
+12B-	12b-	.
+12AJ	12ccJ	.
 *clefG2	*	*
 =5	=5	=5
-12B-/L	12dd\L	.
-12c/	12cc\	.
-12d/J	12b-\J	.
-12e-/L	12cc\L	.
-12d/	12dd\	.
-12c/J	12een\J	.
-12d/L	12ff#\L	.
-12en/	12ee\	.
-12f#/J	12dd\J	.
-12g/L	12ee\L	.
-12f#/	12ff#\	.
-12e/J	12gg\J	.
+12B-L	12ddL	.
+12c	12cc	.
+12dJ	12b-J	.
+12e-L	12ccL	.
+12d	12dd	.
+12cJ	12eenJ	.
+12dL	12ff#L	.
+12en	12ee	.
+12f#J	12ddJ	.
+12gL	12eeL	.
+12f#	12ff#	.
+12eJ	12ggJ	.
 =6	=6	=6
-12f#/L	12aa\L	.
-12g/	12gg\	.
-12a/J	12ff#\J	.
-12b-/L	12gg\L	.
-12a/	12aa\	.
-12g/J	12bb-\J	.
-12a\L	12ccc\L	.
-12b-\	12bb-\	.
-12cc\J	12aa\J	.
-12b-\L	12ddd\L	rfz
-12dd\	12bb-\	.
-12cc\J	12ccc\J	.
+12f#L	12aaL	.
+12g	12gg	.
+12aJ	12ff#J	.
+12b-L	12ggL	.
+12a	12aa	.
+12gJ	12bb-J	.
+12aL	12cccL	.
+12b-	12bb-	.
+12ccJ	12aaJ	.
+12b-L	12dddL	rfz
+12dd	12bb-	.
+12ccJ	12cccJ	.
+!!LO:LB:g=original
 =7	=7	=7
-8b-\	8ddd\	.
+8b-	8ddd	.
 8r	8r	.
 4r	4r	.
-!! Andante sostenuto
 *MM84	*MM84	*MM84
 *clefF4	*	*
-2BBBn/: 2DD/: 2GG/: 2BBn/:	2G/: 2d/: 2g/:	.
+*ped	*	*
+!!LO:TX:omd:B:t=Andante sostenuto
+2BBBn: 2DD: 2GG: 2BBn:	2G: 2d: 2g:	sf
 =8	=8	=8
-2CC/: 2EE-/: 2AA-/: 2C/:	2c/: 2e-/: 2a-/:	.
-2CC#/: 2EEn/: 2AAn/: 2C#/:	2An/: 2en/: 2g/: 2an/:	.
+*ped	*	*
+2CC: 2EE-: 2AA-: 2C:	2c: 2e-: 2a-:	sf
+*ped	*	*
+2CC#: 2EEn: 2AAn: 2C#:	2An: 2en: 2g: 2an:	sf
 =9	=9	=9
-!! arpeggi
+!	!	!LO:DY:t=%s arpeggi
+*ped	*	*
 1DD: 1GG: 1BB-: 1D:	1B-: 1d: 1g: 1b-:	f
 =10	=10	=10
-1DD: 1FF#: 1AA: 1D:	1A: 1c: 1d: 1f#:	>
+*	*	*^
+*ped	*	*	*
+!	!	!LO:HP:a=2	!LO:HP:a
+1DD: 1FF#: 1AA: 1D:	1A: 1c: 1d: 1f#: 1a	> ]	> ]]
+*	*	*v	*v
 =11	=11	=11
 *^	*	*
-32r	2GGG\	2r	p
-32BBB-/LLL	.	.	.
-32DD/	.	.	.
-32GG/	.	.	.
-32G/	.	.	.
-32B-/	.	.	.
-32d/	.	.	.
-32g/	.	.	.
-32d/	.	.	.
-32B-/	.	.	.
-32G/	.	.	.
-32D/	.	.	.
-32BB-/	.	.	.
-32GG/	.	.	.
-32DD/	.	.	.
-32BBB-/JJJ	.	.	.
-2r;	2GGG\;	2r;	.
+*ped	*	*	*
+8rGG	(>2..GGG	4rA<	.
+!	!	!	!LO:DY:a=2
+16BBB-LL	.	.	p
+16DDJJ	.	.	.
+2GG/	.	16rA</	.
+.	.	16G</LL	.
+.	.	16B-</	.
+.	.	16d\	.
+.	.	16g\	.
+.	.	16d\	.
+.	.	16B-</	.
+.	.	16G</	.
+8rGG	.	16D</	.
+.	.	16BB-</JJ	.
+16GGLL<	8.ryy	8rA<	.
+16DD	.	.	.
+16BBB-JJ	.	16ryy	.
+2GGG;\)	2ryy	2r;	.
+.	.	.	.
+*Xped	*	*	*
 *v	*v	*	*
 ==	==	==
 *-	*-	*-
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/06/12
-!!!EEV: 2008/06/12
+!!!EEV: 2025/04/06
 !!!YEC: Copyright 2008 by Craig Stuart Sapp
 !!!YEN: United States of America
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
